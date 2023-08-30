@@ -48,7 +48,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use crate::longest_consecutive::Solution;
+    use crate::arrays_and_hashing::longest_consecutive::Solution;
 
     #[test]
     fn longest_consecutive() {

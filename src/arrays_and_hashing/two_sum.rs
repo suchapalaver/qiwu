@@ -19,7 +19,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use crate::two_sum::Solution;
+    use crate::arrays_and_hashing::two_sum::Solution;
 
     #[test]
     fn two_sum() {
