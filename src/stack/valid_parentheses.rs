@@ -25,7 +25,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use crate::arrays_and_hashing::valid_parentheses::Solution;
+    use crate::stack::valid_parentheses::Solution;
 
     #[test]
     fn is_valid() {
