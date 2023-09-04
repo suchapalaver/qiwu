@@ -92,7 +92,7 @@ mod tests {
         let result = Solution::max_profit_sliding_window(vec![1, 2, 11, 4, 7]);
         assert_eq!(result, 10);
     }
-    
+
     #[test]
     fn is_valid() {
         let result = Solution::max_profit(vec![1]);
